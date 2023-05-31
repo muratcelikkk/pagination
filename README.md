@@ -1,4 +1,7 @@
-![Uploading chrome-capture-2023-4-31.gif…]()
+
+![chrome-capture-2023-4-31](https://github.com/muratcelikkk/pagination/assets/113663079/94abb4ce-c985-44cc-ac58-e6fa731236fe)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
